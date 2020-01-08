@@ -1,0 +1,2 @@
+include ':app', ':email-validation'
+rootProject.name='EmailValidation'
