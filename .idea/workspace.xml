@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3fb39d1-8309-432b-85db-b6cbf1fd068c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/email-validation/src/main/java/com/example/email_validation/Validate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/email-validation/src/main/java/com/example/email_validation/Validate.kt" afterDir="false" />
-    </list>
+    <list default="true" id="d3fb39d1-8309-432b-85db-b6cbf1fd068c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/email-validation/src/main/java/com/example/email_validation/Validate.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="16" column="138" selection-start-line="16" selection-start-column="138" selection-end-line="16" selection-end-column="138" />
             </state>
           </provider>
         </entry>
@@ -205,8 +203,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/email-validation/src/main/java/com/example/email_validation/Validate.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="240">
+          <caret line="16" column="138" selection-start-line="16" selection-start-column="138" selection-end-line="16" selection-end-column="138" />
         </state>
       </provider>
     </entry>
